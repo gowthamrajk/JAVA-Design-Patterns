@@ -38,3 +38,17 @@ some of the Design Patterns available in JAVA are:
 
 ![image](https://user-images.githubusercontent.com/43011442/117574235-c990fe00-b0f9-11eb-8b8d-5c20c5388047.png)
 
+# Prototype Design Pattern
+
+- Prototype pattern refers to creating duplicate object while keeping performance in mind. This type of design pattern comes under creational pattern as this pattern provides one of the best ways to create an object.
+- This pattern involves implementing a prototype interface which tells to create a clone of the current object. This pattern is used when creation of object directly is costly. For example, an object is to be created after a costly database operation. We can cache the object, returns its clone on next request and update the database as and when needed thus reducing database calls.
+
+![image](https://user-images.githubusercontent.com/43011442/117574418-9b5fee00-b0fa-11eb-9143-880e563fc020.png)
+
+# Proxy Design Pattern
+
+- In proxy pattern, a class represents functionality of another class. This type of design pattern comes under structural pattern.
+- In proxy pattern, we create object having original object to interface its functionality to outer world.
+
+![image](https://user-images.githubusercontent.com/43011442/117574433-ae72be00-b0fa-11eb-8d4a-5bbea4c4a744.png)
+
