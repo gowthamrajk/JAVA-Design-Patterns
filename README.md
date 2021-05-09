@@ -172,3 +172,22 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 - Intercepting Filter Pattern
 - Service Locator Pattern
 - Transfer Object Pattern
+
+# Filter Design Pattern
+
+- Filter pattern or Criteria pattern is a design pattern that enables developers to filter a set of objects using different criteria and chaining them in a decoupled way through logical operations. 
+- This type of design pattern comes under structural pattern as this pattern combines multiple criteria to obtain single criteria.
+
+
+![image](https://user-images.githubusercontent.com/43011442/117575193-66559a80-b0fe-11eb-91f3-2e03430e06de.png)
+
+
+# Command Design Pattern
+
+- Command pattern is a data driven design pattern and falls under behavioral pattern category. 
+- A request is wrapped under an object as command and passed to invoker object. 
+- Invoker object looks for the appropriate object which can handle this command and passes the command to the corresponding object which executes the command.
+
+
+![image](https://user-images.githubusercontent.com/43011442/117575212-7d948800-b0fe-11eb-8377-02eb5a13e6be.png)
+
