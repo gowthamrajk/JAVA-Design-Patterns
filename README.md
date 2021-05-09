@@ -52,3 +52,17 @@ some of the Design Patterns available in JAVA are:
 
 ![image](https://user-images.githubusercontent.com/43011442/117574433-ae72be00-b0fa-11eb-8d4a-5bbea4c4a744.png)
 
+# Facade Design Pattern
+
+- Facade pattern hides the complexities of the system and provides an interface to the client using which the client can access the system. This type of design pattern comes under structural pattern as this pattern adds an interface to existing system to hide its complexities.
+- This pattern involves a single class which provides simplified methods required by client and delegates calls to methods of existing system classes.
+
+![image](https://user-images.githubusercontent.com/43011442/117574467-d4985e00-b0fa-11eb-96fe-69a3218f9952.png)
+
+# Composite Design Pattern
+
+- Composite pattern is used where we need to treat a group of objects in similar way as a single object. Composite pattern composes objects in term of a tree structure to represent part as well as whole hierarchy. This type of design pattern comes under structural pattern as this pattern creates a tree structure of group of objects.
+- This pattern creates a class that contains group of its own objects. This class provides ways to modify its group of same objects.
+
+![image](https://user-images.githubusercontent.com/43011442/117574495-ef6ad280-b0fa-11eb-9ce1-8153da0059c6.png)
+
