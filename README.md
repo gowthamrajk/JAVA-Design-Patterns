@@ -108,3 +108,9 @@ some of the Design Patterns available in JAVA are:
 
 
 # Observer Design Pattern
+
+- Observer pattern is used when there is one-to-many relationship between objects such as if one object is modified, its depenedent objects are to be notified automatically.
+- Observer pattern falls under behavioral pattern category.
+
+![image](https://user-images.githubusercontent.com/43011442/117574853-bfbcca00-b0fc-11eb-8e46-c0126653f38f.png)
+
