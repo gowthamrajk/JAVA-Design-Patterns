@@ -2,7 +2,7 @@
 
 This module consists of the Detailed definitions about the JAVA Design Patterns and their practical implementation through Codes.
 
-some of the Design Patterns available in JAVA are:
+some of the most used Design Patterns available in JAVA are:
 
 - Singleton Design Pattern
 - Factory Design Pattern
@@ -126,3 +126,5 @@ some of the Design Patterns available in JAVA are:
 
 ![image](https://user-images.githubusercontent.com/43011442/117574853-bfbcca00-b0fc-11eb-8e46-c0126653f38f.png)
 
+
+# Some of the Other Common Design Patterns are :
