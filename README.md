@@ -152,3 +152,23 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 
 
 # Some of the Other Common Design Patterns are :
+
+- Filter Design Pattern
+- Command Design Pattern
+- Interpreter Design Pattern
+- Iterator Design Pattern
+- Mediator Design Pattern
+- Momento Design Pattern
+- State Design Pattern
+- Null Object Design Pattern
+- Stratergy Design Pattern
+- Template Design Pattern
+- Visitor Design pattern
+- MVC pattern
+- Business Deligate Pattern
+- Composite Entity Pattern
+- Data Access object Pattern
+- Front Controller Pattern
+- Intercepting Filter Pattern
+- Service Locator Pattern
+- Transfer Object Pattern
