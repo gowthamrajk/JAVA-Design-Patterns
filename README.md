@@ -26,3 +26,15 @@ some of the Design Patterns available in JAVA are:
 
 # Factory Design Pattern
 
+- Factory pattern is one of the most used design patterns in Java. This type of design pattern comes under creational pattern as this pattern provides one of the best ways to create an object.
+- In Factory pattern, we create object without exposing the creation logic to the client and refer to newly created object using a common interface.
+
+![image](https://user-images.githubusercontent.com/43011442/117574213-abc39900-b0f9-11eb-9cc3-f601b8c2c223.png)
+
+# Builder Design Pattern
+
+- Builder pattern builds a complex object using simple objects and using a step by step approach. This type of design pattern comes under creational pattern as this pattern provides one of the best ways to create an object.
+- A Builder class builds the final object step by step. This builder is independent of other objects.
+
+![image](https://user-images.githubusercontent.com/43011442/117574235-c990fe00-b0f9-11eb-8b8d-5c20c5388047.png)
+
