@@ -66,3 +66,18 @@ some of the Design Patterns available in JAVA are:
 
 ![image](https://user-images.githubusercontent.com/43011442/117574495-ef6ad280-b0fa-11eb-9ce1-8153da0059c6.png)
 
+# Decorator Design Pattern
+
+- Decorator pattern allows a user to add new functionality to an existing object without altering its structure. This type of design pattern comes under structural pattern as this pattern acts as a wrapper to existing class.
+- This pattern creates a decorator class which wraps the original class and provides additional functionality keeping class methods signature intact.
+
+![image](https://user-images.githubusercontent.com/43011442/117574697-ef1f0700-b0fb-11eb-9d88-794867df11a3.png)
+
+# Flyweight Design Pattern
+
+- Flyweight pattern is primarily used to reduce the number of objects created and to decrease memory footprint and increase performance. This type of design pattern comes under structural pattern as this pattern provides ways to decrease object count thus improving the object structure of application.
+- Flyweight pattern tries to reuse already existing similar kind objects by storing them and creates new object when no matching object is found.
+
+![image](https://user-images.githubusercontent.com/43011442/117574668-dadb0a00-b0fb-11eb-957b-b51b1dc3450d.png)
+
+# Adapter Design Pattern
