@@ -2,6 +2,13 @@
 
 This module consists of the Detailed definitions about the JAVA Design Patterns and their practical implementation through Codes.
 
+# History of Design Patterns
+
+- In 1994, four authors Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides published a book titled Design Patterns - Elements of Reusable Object-Oriented Software which initiated the concept of Design Pattern in Software development.
+- These authors are collectively known as Gang of Four (GOF). According to these authors design patterns are primarily based on the following principles of object orientated design.
+     1) Program to an interface not an implementation
+     2) Favor object composition over inheritance
+
 # Types of Design Patterns
 
 # Creational Patterns
