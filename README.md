@@ -262,8 +262,17 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 
 # Template Design Pattern
 
-- 
+- In Template pattern, an abstract class exposes defined way(s)/template(s) to execute its methods. 
+- Its subclasses can override the method implementation as per need but the invocation is to be in the same way as defined by an abstract class. 
+- This pattern comes under behavior pattern category.
+
+
+![image](https://user-images.githubusercontent.com/43011442/117608252-55973a00-b17b-11eb-8dc6-3f2d0ac9854d.png)
+
+
 # Visitor Design pattern
+
+- 
 # MVC pattern
 # Business Deligate Pattern
 # Composite Entity Pattern
