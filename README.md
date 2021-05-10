@@ -419,9 +419,7 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 
 # Useful Books on Java Design Patterns
 
-![image](https://user-images.githubusercontent.com/43011442/117611995-1a4c3980-b182-11eb-88f2-c9dcdd76e547.png)
-
-[open](https://www.amazon.com/exec/obidos/ASIN/0201485397/httpwwwtuto0a-20)
+[<img align="left" alt="code-Jamm.in" width="22px" src="https://user-images.githubusercontent.com/43011442/117611995-1a4c3980-b182-11eb-88f2-c9dcdd76e547.png" />](https://www.amazon.com/exec/obidos/ASIN/0201485397/httpwwwtuto0a-20)
 
 
 ![image](https://user-images.githubusercontent.com/43011442/117612066-38b23500-b182-11eb-864f-f61553e79012.png)
