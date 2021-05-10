@@ -326,8 +326,37 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 
 # Data Access object Pattern
 
-- 
+- Data Access Object Pattern or DAO pattern is used to separate low level data accessing API or operations from high level business services. 
+- Following are the participants in Data Access Object Pattern:
+
+      1) Data Access Object Interface - This interface defines the standard operations to be performed on a model object(s).
+      2) Data Access Object concrete class - This class implements above interface. This class is responsible to get data from a data source which can be database / xml or any other storage mechanism.
+      3) Model Object or Value Object - This object is simple POJO containing get/set methods to store data retrieved using DAO class.
+
+
+![image](https://user-images.githubusercontent.com/43011442/117610670-c0e30b00-b17f-11eb-8436-396d15d4db6f.png)
+
+
 # Front Controller Pattern
+
+- The front controller design pattern is used to provide a centralized request handling mechanism so that all requests will be handled by a single handler. 
+- This handler can do the authentication/ authorization/ logging or tracking of request and then pass the requests to corresponding handlers. 
+- Following are the entities of this type of design pattern:
+
+      1) Front Controller - Single handler for all kinds of requests coming to the application (either web based/ desktop based).
+      2) Dispatcher - Front Controller may use a dispatcher object which can dispatch the request to corresponding specific handler.
+      3) View - Views are the object for which the requests are made.
+
+
+![image](https://user-images.githubusercontent.com/43011442/117610745-dfe19d00-b17f-11eb-89f5-42943b264e4a.png)
+
+
 # Intercepting Filter Pattern
+
+- 
 # Service Locator Pattern
+
+- 
 # Transfer Object Pattern
+
+- 
