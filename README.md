@@ -284,8 +284,9 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 
 - MVC Pattern stands for Model-View-Controller Pattern. 
 - This pattern is used to separate application's concerns.
+      
       1) Model - Model represents an object or JAVA POJO carrying data. It can also have logic to update controller if its data changes.
-      2) View - View represents the visualization of the data that model contains.
+      2) View - View represents the visualization of the data that model contains
       3) Controller - Controller acts on both model and view. It controls the data flow into model object and updates the view whenever data changes. It keeps view and model separate.
 
 
