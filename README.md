@@ -294,7 +294,21 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 
 
 # Business Deligate Pattern
+
+- Business Delegate Pattern is used to decouple presentation tier and business tier. It is basically use to reduce communication or remote lookup functionality to business tier code in presentation tier code. In business tier we have following entities.
+
+      1) Client - Presentation tier code may be JSP, servlet or UI java code.
+      2) Business Delegate - A single entry point class for client entities to provide access to Business Service methods.
+      3) LookUp Service - Lookup service object is responsible to get relative business implementation and provide business object access to business delegate object.
+      4) Business Service - Business Service interface. Concrete classes implement this business service to provide actual business implementation logic.
+
+
+![image](https://user-images.githubusercontent.com/43011442/117609033-dd317880-b17c-11eb-947a-927ab3cedf3c.png)
+
+
 # Composite Entity Pattern
+
+- 
 # Data Access object Pattern
 # Front Controller Pattern
 # Intercepting Filter Pattern
