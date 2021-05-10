@@ -212,6 +212,14 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 
 
 # Mediator Design Pattern
+
+- Mediator pattern is used to reduce communication complexity between multiple objects or classes.
+- This pattern provides a mediator class which normally handles all the communications between different classes and supports easy maintenance of the code by loose coupling.
+- Mediator pattern falls under behavioral pattern category.
+
+![image](https://user-images.githubusercontent.com/43011442/117607974-c2f69b00-b17a-11eb-9cbc-5e66ffff9110.png)
+
+
 # Momento Design Pattern
 # State Design Pattern
 # Null Object Design Pattern
