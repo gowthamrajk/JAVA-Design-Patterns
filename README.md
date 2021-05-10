@@ -272,8 +272,17 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 
 # Visitor Design pattern
 
-- 
+- In Visitor pattern, we use a visitor class which changes the executing algorithm of an element class. 
+- By this way, execution algorithm of element can vary as and when visitor varies. 
+- This pattern comes under behavior pattern category. As per the pattern, element object has to accept the visitor object so that visitor object handles the operation on the element object.
+
+
+![image](https://user-images.githubusercontent.com/43011442/117608294-6e075480-b17b-11eb-9905-68dbc3978507.png)
+
+
 # MVC pattern
+
+- 
 # Business Deligate Pattern
 # Composite Entity Pattern
 # Data Access object Pattern
