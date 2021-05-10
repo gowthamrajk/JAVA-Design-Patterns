@@ -1,15 +1,15 @@
-# JAVA DESIGN PATTERNS
+# JAVA DESIGN PATTERNS 👋
 
 This module consists of the Detailed definitions about the JAVA Design Patterns and their practical implementation through Codes.
 
-# History of Design Patterns
+# 🌱 History of Design Patterns
 
 - In 1994, four authors Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides published a book titled Design Patterns - Elements of Reusable Object-Oriented Software which initiated the concept of Design Pattern in Software development.
 - These authors are collectively known as Gang of Four (GOF). According to these authors design patterns are primarily based on the following principles of object orientated design.
      1) Program to an interface not an implementation
      2) Favor object composition over inheritance
 
-# Types of Design Patterns
+# 🔭 Types of Design Patterns
 
 # Creational Patterns
 - These design patterns provide a way to create objects while hiding the creation logic, rather than instantiating objects directly using new operator. 
@@ -26,7 +26,7 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 - These design patterns are specifically concerned with the presentation tier. 
 - These patterns are identified by Sun Java Center.
 
-# some of the most used Design Patterns available in JAVA are:
+# 👯 some of the most used Design Patterns available in JAVA are:
 
 - Singleton Design Pattern
 - Factory Design Pattern
@@ -405,7 +405,7 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 ![image](https://user-images.githubusercontent.com/43011442/117611244-c856e400-b180-11eb-9b63-6a7032902b0a.png)
 
 
-# Links on Design Patterns
+# ⚡ Links on Design Patterns
 
 - [Design Patterns - Wikipeida](https://en.wikipedia.org/wiki/Software_design_pattern) 
 
@@ -417,7 +417,7 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 
 - [Java DesignPatterns](https://www.javaworld.com/category/design-patterns/)
 
-# Youtube Videos
+# 📺 Youtube Videos
 
 - [Telusko Learning](https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ZX1fl-7CKnayxHJA_1ol)
 
@@ -435,7 +435,7 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 
 - [Edurekha](https://www.youtube.com/watch?v=C_oPLDaSy-8)
 
-# Useful Books on Java Design Patterns
+# 🥅 Useful Books on Java Design Patterns
 
 [<img src="https://user-images.githubusercontent.com/43011442/117611995-1a4c3980-b182-11eb-88f2-c9dcdd76e547.png" />](https://www.amazon.com/exec/obidos/ASIN/0201485397/httpwwwtuto0a-20)
 
