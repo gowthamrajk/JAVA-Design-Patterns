@@ -1,6 +1,6 @@
 # JAVA DESIGN PATTERNS 👋
 
-This module consists of the Detailed definitions about the JAVA Design Patterns and their practical implementation through Codes.
+I have created this module which consists of the Detailed definitions about the JAVA Design Patterns and their practical implementation through Codes.
 
 # 🌱 History of Design Patterns
 
