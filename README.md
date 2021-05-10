@@ -191,3 +191,38 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 
 ![image](https://user-images.githubusercontent.com/43011442/117575212-7d948800-b0fe-11eb-8377-02eb5a13e6be.png)
 
+
+# Interpreter Design Pattern
+
+- Interpreter pattern provides a way to evaluate language grammar or expression. 
+- This type of pattern comes under behavioral pattern. This pattern involves implementing an expression interface which tells to interpret a particular context. 
+- This pattern is used in SQL parsing, symbol processing engine etc.
+
+
+![image](https://user-images.githubusercontent.com/43011442/117607829-6dba8980-b17a-11eb-9385-05eefaf0331b.png)
+
+
+# Iterator Design Pattern
+
+- Iterator pattern is very commonly used design pattern in Java and .Net programming environment.
+- This pattern is used to get a way to access the elements of a collection object in sequential manner without any need to know its underlying representation.
+
+
+![image](https://user-images.githubusercontent.com/43011442/117607920-9f335500-b17a-11eb-80d6-35078ff9fe57.png)
+
+
+# Mediator Design Pattern
+# Momento Design Pattern
+# State Design Pattern
+# Null Object Design Pattern
+# Stratergy Design Pattern
+# Template Design Pattern
+# Visitor Design pattern
+# MVC pattern
+# Business Deligate Pattern
+# Composite Entity Pattern
+# Data Access object Pattern
+# Front Controller Pattern
+# Intercepting Filter Pattern
+# Service Locator Pattern
+# Transfer Object Pattern
