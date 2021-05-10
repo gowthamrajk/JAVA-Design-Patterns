@@ -295,7 +295,9 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 
 # Business Deligate Pattern
 
-- Business Delegate Pattern is used to decouple presentation tier and business tier. It is basically use to reduce communication or remote lookup functionality to business tier code in presentation tier code. In business tier we have following entities.
+- Business Delegate Pattern is used to decouple presentation tier and business tier. 
+- It is basically use to reduce communication or remote lookup functionality to business tier code in presentation tier code. 
+- In business tier we have following entities:
 
       1) Client - Presentation tier code may be JSP, servlet or UI java code.
       2) Business Delegate - A single entry point class for client entities to provide access to Business Service methods.
@@ -308,8 +310,23 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 
 # Composite Entity Pattern
 
-- 
+- Composite Entity pattern is used in EJB persistence mechanism. 
+- A Composite entity is an EJB entity bean which represents a graph of objects. 
+- When a composite entity is updated, internally dependent objects beans get updated automatically as being managed by EJB entity bean. 
+- Following are the participants in Composite Entity Bean:
+
+      1) Composite Entity - It is primary entity bean. It can be coarse grained or can contain a coarse grained object to be used for persistence purpose.
+      2) Coarse-Grained Object - This object contains dependent objects. It has its own life cycle and also manages life cycle of dependent objects.
+      3) Dependent Object - Dependent object is an object which depends on coarse grained object for its persistence lifecycle.
+      4) Strategies - Strategies represents how to implement a Composite Entity.
+
+
+![image](https://user-images.githubusercontent.com/43011442/117609115-08b46300-b17d-11eb-9c0f-c71eca6aa876.png)
+
+
 # Data Access object Pattern
+
+- 
 # Front Controller Pattern
 # Intercepting Filter Pattern
 # Service Locator Pattern
