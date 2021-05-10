@@ -405,3 +405,27 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 ![image](https://user-images.githubusercontent.com/43011442/117611244-c856e400-b180-11eb-9b63-6a7032902b0a.png)
 
 
+# Links on Design Patterns
+
+[https://en.wikipedia.org/wiki/Software_design_pattern] - Check out design patterns in a very generic way
+
+Java Programming/Design Patterns - A very good article on Design Patterns
+
+The JavaTM Tutorials -The Java Tutorials are practical guides for programmers who want to use the Java programming language to create applications.
+
+JavaTM 2 SDK, Standard Edition - Official site for JavaTM 2 SDK, Standard Edition
+
+Java DesignPatterns - Short articles on Design Patterns.
+
+Useful Books on Java Design Patterns
+Java Design Patterns
+
+Head First Design Patterns
+
+Java Design Pattern Essentials
+
+Design Patterns: Elements of Reusable Object-Oriented Software
+
+Design Patterns in Java(TM)
+
+Design Patterns Java Workbook 
