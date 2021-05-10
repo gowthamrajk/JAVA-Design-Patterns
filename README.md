@@ -252,8 +252,17 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 
 # Stratergy Design Pattern
 
-- 
+- In Strategy pattern, a class behavior or its algorithm can be changed at run time. This type of design pattern comes under behavior pattern.
+- In Strategy pattern, we create objects which represent various strategies and a context object whose behavior varies as per its strategy object. 
+- The strategy object changes the executing algorithm of the context object.
+
+
+![image](https://user-images.githubusercontent.com/43011442/117608202-38fb0200-b17b-11eb-9706-98a80b55982b.png)
+
+
 # Template Design Pattern
+
+- 
 # Visitor Design pattern
 # MVC pattern
 # Business Deligate Pattern
