@@ -221,7 +221,17 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 
 
 # Momento Design Pattern
+
+- Memento pattern is used to restore state of an object to a previous state.
+- Memento pattern falls under behavioral pattern category.
+
+
+![image](https://user-images.githubusercontent.com/43011442/117608015-dbff4c00-b17a-11eb-91e0-1548b8fa5328.png)
+
+
 # State Design Pattern
+
+- 
 # Null Object Design Pattern
 # Stratergy Design Pattern
 # Template Design Pattern
