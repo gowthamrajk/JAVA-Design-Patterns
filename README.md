@@ -388,4 +388,20 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 
 # Transfer Object Pattern
 
-- 
+- The Transfer Object pattern is used when we want to pass data with multiple attributes in one shot from client to server. 
+- Transfer object is also known as Value Object. 
+- Transfer Object is a simple POJO class having getter/setter methods and is serializable so that it can be transferred over the network. 
+- It does not have any behavior. 
+- Server Side business class normally fetches data from the database and fills the POJO and send it to the client or pass it by value. 
+- For client, transfer object is read-only. 
+- Client can create its own transfer object and pass it to server to update values in database in one shot. 
+- Following are the entities of this type of design pattern:
+
+      1) Business Object - Business Service fills the Transfer Object with data.
+      2) Transfer Object - Simple POJO having methods to set/get attributes only.
+      3) Client - Client either requests or sends the Transfer Object to Business Object.
+
+
+![image](https://user-images.githubusercontent.com/43011442/117611244-c856e400-b180-11eb-9b63-6a7032902b0a.png)
+
+
