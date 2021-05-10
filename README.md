@@ -422,27 +422,17 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 [<img src="https://user-images.githubusercontent.com/43011442/117611995-1a4c3980-b182-11eb-88f2-c9dcdd76e547.png" />](https://www.amazon.com/exec/obidos/ASIN/0201485397/httpwwwtuto0a-20)
 
 
-![image](https://user-images.githubusercontent.com/43011442/117612066-38b23500-b182-11eb-864f-f61553e79012.png)
-
-[open](https://www.amazon.com/exec/obidos/ASIN/0596007124/httpwwwtuto0a-20)
+[<img src="https://user-images.githubusercontent.com/43011442/117612066-38b23500-b182-11eb-864f-f61553e79012.png" />](https://www.amazon.com/exec/obidos/ASIN/0596007124/httpwwwtuto0a-20)
 
 
-![image](https://user-images.githubusercontent.com/43011442/117612165-5bdce480-b182-11eb-90ec-38779baad7bf.png)
-
-[open](https://www.amazon.com/exec/obidos/ASIN/0956575803/httpwwwtuto0a-20)
+[<img src="https://user-images.githubusercontent.com/43011442/117612165-5bdce480-b182-11eb-90ec-38779baad7bf.png" />](https://www.amazon.com/exec/obidos/ASIN/0956575803/httpwwwtuto0a-20)
 
 
-![image](https://user-images.githubusercontent.com/43011442/117612189-67301000-b182-11eb-8691-84b5f15ba957.png)
-
-[open](https://www.amazon.com/exec/obidos/ASIN/0201633612/httpwwwtuto0a-20)
+[<img src="https://user-images.githubusercontent.com/43011442/117612189-67301000-b182-11eb-8691-84b5f15ba957.png" />](https://www.amazon.com/exec/obidos/ASIN/0201633612/httpwwwtuto0a-20)
 
 
-![image](https://user-images.githubusercontent.com/43011442/117612211-71520e80-b182-11eb-94bf-1abbee657ce6.png)
-
-[open](https://www.amazon.com/exec/obidos/ASIN/0321333020/httpwwwtuto0a-20)
+[<img src="https://user-images.githubusercontent.com/43011442/117612211-71520e80-b182-11eb-94bf-1abbee657ce6.png" />](https://www.amazon.com/exec/obidos/ASIN/0321333020/httpwwwtuto0a-20)
 
 
-![image](https://user-images.githubusercontent.com/43011442/117612238-7ca53a00-b182-11eb-952d-8627c6add62e.png)
-
-[open](https://www.amazon.com/exec/obidos/ASIN/0201743973/httpwwwtuto0a-20)
+[<img src="https://user-images.githubusercontent.com/43011442/117612238-7ca53a00-b182-11eb-952d-8627c6add62e.png" />](https://www.amazon.com/exec/obidos/ASIN/0201743973/httpwwwtuto0a-20)
 
