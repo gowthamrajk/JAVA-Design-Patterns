@@ -417,6 +417,24 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 
 - [Java DesignPatterns](https://www.javaworld.com/category/design-patterns/)
 
+# Youtube Videos
+
+- [Telusko Learning](https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ZX1fl-7CKnayxHJA_1ol)
+
+- [coding Simplified](https://www.youtube.com/playlist?list=PLt4nG7RVVk1h9lxOYSOGI9pcP3I5oblbx)
+
+- [KK Java Tutorials](https://www.youtube.com/playlist?list=PLzS3AYzXBoj8t5hPykr5VU7jG-kEim-LX)
+
+- [Derek Beans](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
+
+- [Christopher Okrhavi](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+
+- [Rajesh Kumar](https://www.youtube.com/playlist?list=PLZ0uoluqqCdcAln2Hu9J3BlIUHQIMClEN)
+
+- [Tutorials Point](https://www.youtube.com/playlist?list=PLWPirh4EWFpGeQoTYL5YpzBz8Gjw-sxJb)
+
+- [Edurekha](https://www.youtube.com/watch?v=C_oPLDaSy-8)
+
 # Useful Books on Java Design Patterns
 
 [<img src="https://user-images.githubusercontent.com/43011442/117611995-1a4c3980-b182-11eb-88f2-c9dcdd76e547.png" />](https://www.amazon.com/exec/obidos/ASIN/0201485397/httpwwwtuto0a-20)
