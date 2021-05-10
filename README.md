@@ -241,8 +241,18 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 
 # Null Object Design Pattern
 
-- 
+- In Null Object pattern, a null object replaces check of NULL object instance. 
+- Instead of putting if check for a null value, Null Object reflects a do nothing relationship. 
+- Such Null object can also be used to provide default behaviour in case data is not available.
+- In Null Object pattern, we create an abstract class specifying various operations to be done, concrete classes extending this class and a null object class providing do nothing implemention of this class and will be used seemlessly where we need to check null value.
+
+
+![image](https://user-images.githubusercontent.com/43011442/117608151-1cf76080-b17b-11eb-9789-a72eda69c333.png)
+
+
 # Stratergy Design Pattern
+
+- 
 # Template Design Pattern
 # Visitor Design pattern
 # MVC pattern
