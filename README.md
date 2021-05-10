@@ -353,7 +353,21 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 
 # Intercepting Filter Pattern
 
-- 
+- The intercepting filter design pattern is used when we want to do some pre-processing / post-processing with request or response of the application. 
+- Filters are defined and applied on the request before passing the request to actual target application. 
+- Filters can do the authentication/ authorization/ logging or tracking of request and then pass the requests to corresponding handlers. 
+- Following are the entities of this type of design pattern:
+
+      1) Filter - Filter which will performs certain task prior or after execution of request by request handler.
+      2) Filter Chain - Filter Chain carries multiple filters and help to execute them in defined order on target.
+      3) Target - Target object is the request handler
+      4) Filter Manager - Filter Manager manages the filters and Filter Chain.
+      5) Client - Client is the object who sends request to the Target object
+
+
+![image](https://user-images.githubusercontent.com/43011442/117610867-16b7b300-b180-11eb-80d2-db2874db67e8.png)
+
+
 # Service Locator Pattern
 
 - 
