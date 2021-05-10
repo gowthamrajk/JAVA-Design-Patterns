@@ -231,8 +231,17 @@ This module consists of the Detailed definitions about the JAVA Design Patterns 
 
 # State Design Pattern
 
-- 
+- In State pattern a class behavior changes based on its state. 
+- This type of design pattern comes under behavior pattern.
+- In State pattern, we create objects which represent various states and a context object whose behavior varies as its state object changes.
+
+
+![image](https://user-images.githubusercontent.com/43011442/117608086-f9ccb100-b17a-11eb-9e15-6fe58d85c4d9.png)
+
+
 # Null Object Design Pattern
+
+- 
 # Stratergy Design Pattern
 # Template Design Pattern
 # Visitor Design pattern
